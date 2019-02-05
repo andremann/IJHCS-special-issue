@@ -5,4 +5,4 @@ obj
 .ipynb_checkpoints
 src/pull_data.sh
 data/raw/
-data/raw.zip
+
